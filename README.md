@@ -1,2 +1,3 @@
 # Shifty Mobile App
-Employee shift organizer built for iOS and Android with React Native, Redux, and Firebase.
+* Employee shift organizer for iOS and Android. 
+* Built with React Native, Redux, and Firebase.
