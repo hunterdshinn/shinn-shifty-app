@@ -5,5 +5,11 @@
 ## Screenshots
 ### Log In 
 ![log in page](/screenshots/log-in-page.png)
-### Employees List
+### Employee List
 ![employees page](/screenshots/employees-page.png)
+### Add Employee
+![add employee page](/screenshots/add-employee-page.png)
+### Edit Employee
+![edit employee page](/screenshots/edit-employee-page.png)
+### Delete Modal
+![delete modal](/screenshots/delete-modal.png)
